@@ -1,6 +1,6 @@
 # Python Exercises
 ---
-This python exercise is based on the website [Practice Python](https://www.practicepython.org/). I'm doing this exercise to train and help me to better understand python as language. The exercises are broken down to different levels ranging from level 1 to 4 with various difficulties
+This python exercise is based on the website [Practice Python](https://www.practicepython.org/). I'm doing this exercise to train and help me to better understand python as language. The exercises are broken down to different levels ranging from level 1 to 4 with various difficulties. Completed exercises will be added to the readme
 
 ## Level 1 : Exercises
 ---
