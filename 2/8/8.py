@@ -31,14 +31,14 @@ while True:
 		letter = ''
 		print("Already guessed!!")
 	elif letter.upper() in word:
-		index = word.index(letter.upper())
-		guessed[index] = letter.upper()
-		word[index] = '_'
+		index = word.index(letter.upper()) # search the index of the letter from word list
+		guessed[index] = letter.upper() # after the index is gotten change the blank list to a letter with the matching index
+		word[index] = '_' # change to blank to determine that game is over
 	else:
-		print(''.join(guessed))
+		print(''.join(guessed)) # print list to a string, you create an empty string and join the list
 		if letter is not '':
 			lstGuessed.append(letter.upper())
-		letter = input("guess letter: ")
+		letter = input("guess letter: ") # reset
 
 	if '_' not in guessed:
 		print("You won!!")
