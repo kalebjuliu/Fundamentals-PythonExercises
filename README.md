@@ -3,7 +3,7 @@
 This python exercise is based on the website [Practice Python](https://www.practicepython.org/). I'm doing this exercise to train and help me to better understand python as language. The exercises are broken down to different levels ranging from level 1 to 4 with various difficulties. Completed exercises will be added to the readme
 
 ## Level 1 : Exercises
----
+
 ### Exercise 1 : Print Even Number
 Print even numbers below 100
 ### Exercise 2 :Print Odd Number
@@ -32,4 +32,23 @@ Benjamin Franklin
 ```
 
 ## Level 2 : Exercises
-### Coming Soon!
+
+### Exercise 1 : List Less Than
+Write a program that prints out all the elements of the list that are less than 5.
+### Exercise 2 : Divisors
+Create a program that asks the user for a number and then prints out a list of all the divisors of that number.
+### Exercise 3 : List Overlap
+Write a program that returns a list that contains only the elements that are common between the lists (without duplicates). Make sure your program works on two lists of different sizes.
+### Exercise 4 : String List
+Ask the user for a string and print out whether this string is a palindrome or not.
+### Exercise 5 : List Comprehensions
+Write one line of Python that takes this list a and makes a new list that has only the even elements of this list in it.
+### Exercise 6 : Fibonacci
+Write a program that asks the user how many Fibonnaci numbers to generate and then generates them.
+### Exercise 7 : List Remove Duplicates
+Write a program that returns a list that contains only the elements that are common between the lists (without duplicates).
+### Exercise 8 : Create Hangman Game
+Use words from a text file
+### Exercise 9 : Birthday JSON and Birthday Months
+1) In this exercise, modify your program from Part 1 to load the birthday dictionary from a JSON file on disk, rather than having the dictionary defined in the program.
+2)  In this exercise, load that JSON file from disk, extract the months of all the birthdays, and count how many scientists have a birthday in each month.
